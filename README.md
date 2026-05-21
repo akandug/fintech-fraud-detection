@@ -1,7 +1,5 @@
 # fintech-fraud-detection
 
-# Intelligent Fraud Shield
-
 ##  Project Preview
 A high-throughput FinTech data pipeline and machine learning system built for a digital-only bank. The system detects anomalous transactions in milliseconds, resolving extreme class imbalance (0.5% fraud prevalence) to mitigate financial loss while protecting the legitimate user experience.
 
@@ -49,7 +47,9 @@ Transformed backend model outputs into live operational intelligence:
 ---
 
 ##  Visuals
-*(Note: Replace placeholder paths with your actual saved image paths or URLs in your repository)*
+[Dashboard1] ()
+
+[Dashboard2] ()
 
 ### 1. The Executive Scatter Plot (Risk Zones)
 `![Risk Scatter Plot](path/to/scatter_plot.png)`
