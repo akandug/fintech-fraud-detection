@@ -25,9 +25,6 @@ To engineer a scalable, end-to-end data and machine learning pipeline that:
 
 ##  Analysis Approach
 
-
-
-
 ### 1. SQL (The Forensic Layer)
 Engineered rolling behavioral and spatial features directly from raw transaction logs:
 * **Spend Deviation:** Calculated `rolling_24h_spend` and `avg_transaction_value` to derive a live `Spend Ratio`.
@@ -55,7 +52,7 @@ Transformed backend model outputs into live operational intelligence:
 * **The Attack Zone (Top Right Cloud):** Highly dispersed anomalous transactions executing at extreme spend ratios and thousands of kilometers away from home.
 
 ### 2. Merchant Risk Analysis
-`![Merchant Risk Bar Chart](path/to/bar_chart.png)`
+`![Merchant Risk Bar Chart] (https://github.com/akandug/fintech-fraud-detection/blob/main/merchant.PNG))`
 * A stark contrast visualization mapping massive transactional volumes against actual fraud counts by category.
 
 ### 3. ML Model Explainability (SHAP Beeswarm Plot)
