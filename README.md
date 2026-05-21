@@ -47,9 +47,7 @@ Transformed backend model outputs into live operational intelligence:
 ---
 
 ##  Visuals
-[Dashboard1] ()
-
-[Dashboard2] ()
+[Dashboard] (https://github.com/akandug/fintech-fraud-detection/blob/main/bankfraudDashboard.PNG)
 
 ### 1. The Executive Scatter Plot (Risk Zones)
 `![Risk Scatter Plot] (https://github.com/akandug/fintech-fraud-detection/blob/main/fraudscatterplot.PNG)
