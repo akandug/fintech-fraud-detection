@@ -59,7 +59,7 @@ Transformed backend model outputs into live operational intelligence:
 * A stark contrast visualization mapping massive transactional volumes against actual fraud counts by category.
 
 ### 3. ML Model Explainability (SHAP Beeswarm Plot)
-`![SHAP Beeswarm Plot](path/to/shap_plot.png)`
+`![SHAP Beeswarm Plot] (https://github.com/akandug/fintech-fraud-detection/blob/main/SHAP.PNG))`
 * Shows feature impact on model predictions, highlighting `Amount` as the primary differentiator alongside `Home Region` and `Entry Method` clusters.
 
 ---
