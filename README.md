@@ -52,7 +52,7 @@ Transformed backend model outputs into live operational intelligence:
 [Dashboard2] ()
 
 ### 1. The Executive Scatter Plot (Risk Zones)
-`![Risk Scatter Plot](path/to/scatter_plot.png)`
+`![Risk Scatter Plot] (https://github.com/akandug/fintech-fraud-detection/blob/main/fraudscatterplot.PNG)
 * **The Safe Zone (Bottom Left):** A massive, dense cluster representing everyday low-value, local transactions.
 * **The Attack Zone (Top Right Cloud):** Highly dispersed anomalous transactions executing at extreme spend ratios and thousands of kilometers away from home.
 
